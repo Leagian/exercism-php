@@ -1,4 +1,4 @@
-# Exercism PHP <img style="width:20%" align='right' src="https://fr.wikipedia.org/wiki/PHP#/media/Fichier:PHP-logo.svg" />&nbsp;&nbsp;
+# Exercism PHP <img style="width:20%" align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJjNzhlZWI5YTA0MTE0NGYzNDQ3ZTk4ZDhkYTQ1ZTM5N2Q4NmQzNSZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" />&nbsp;&nbsp;
 <br><br>
 ### 140 coding exercises for JavaScript on Exercism ! From Isogram to Reverse String 
 <br>
