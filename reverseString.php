@@ -17,4 +17,4 @@ function reverseStringTwo($text) {
 
     return $finalArr;
 }
-echo reverseString("bonjour");
+echo reverseStringTwo("bonsoir");
