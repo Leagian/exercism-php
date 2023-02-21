@@ -3,7 +3,7 @@
 ### 79 coding exercises for PHP on Exercism ! From Diamond to Poker
 <br>
 
-- ### [Exo 1](https://github.com/Leagian/exercism-javascript/blob/main/helloWorld.js)
+- ### [Exo 1](https://github.com/Leagian/exercism-php/blob/main/helloWorld.php)
 
 Instructions :
 The classical introductory exercise. Just say "Hello, World!"
