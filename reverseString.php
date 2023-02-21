@@ -13,8 +13,8 @@ echo reverseString("bonjour");
 function reverseStringTwo($text) {
     $arr = str_split($text);
     $newArr = array_reverse($arr);
-    $finalArr = implode($newArr);
+    $finalStr = implode($newArr);
 
-    return $finalArr;
+    return $finalStr;
 }
 echo reverseStringTwo("bonsoir");
