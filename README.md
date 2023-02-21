@@ -6,7 +6,7 @@
 
 <br>
 
-- ### [Exo 1](https://github.com/Leagian/exercism-php/blob/main/helloWorld.php)
+- ## [Exo 1](https://github.com/Leagian/exercism-php/blob/main/helloWorld.php)
 
 Instructions :
 The classical introductory exercise. Just say "Hello, World!"
@@ -14,7 +14,7 @@ The classical introductory exercise. Just say "Hello, World!"
 The objectives are simple: 
   - Write a function that returns the string "Hello, World!"
 
-- ### [Exo 2](https://github.com/Leagian/exercism-php/blob/main/reverseString.php)
+- ## [Exo 2](https://github.com/Leagian/exercism-php/blob/main/reverseString.php)
 
 Instructions :
 Reverse a string 
