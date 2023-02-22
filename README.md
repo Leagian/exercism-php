@@ -19,5 +19,5 @@ The objectives are simple:
 
 Instructions :
 
-  1.Reverse a string 
-  - For example: input: "cool" output: "looc"
+  1. Reverse a string 
+     For example: input: "cool" output: "looc"
