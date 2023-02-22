@@ -15,6 +15,7 @@ The classical introductory exercise. Just say "Hello, World!"
 The objectives are simple: 
     
    1. Write a function that returns the string "Hello, World!"
+  
 
 - ## [Exo 2](https://github.com/Leagian/exercism-php/blob/main/reverseString.php)
 
@@ -22,12 +23,14 @@ Instructions :
 
   1. Reverse a string. For example: input: "cool" output: "looc"
   
+  
 - ## [Exo 3](https://github.com/Leagian/exercism-php/blob/main/resistors.php)
    
 Instructions :
 
 The goal of this exercise is to create a way:
 
-    1. to look up the numerical value associated with a particular color band
-    2. to list the different band colors
+   1. to look up the numerical value associated with a particular color band
+   2. to list the different band colors
+    
 Mnemonics map the colors to the numbers, that, when stored as an array, happen to map to their index in the array: Better Be Right Or Your Great Big Values Go Wrong.
