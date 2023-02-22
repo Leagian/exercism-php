@@ -16,13 +16,11 @@ The objectives are simple:
     
    1. Write a function that returns the string "Hello, World!"
   
-
 - ## [Exo 2](https://github.com/Leagian/exercism-php/blob/main/reverseString.php)
 
 Instructions :
 
   1. Reverse a string. For example: input: "cool" output: "looc"
-  
   
 - ## [Exo 3](https://github.com/Leagian/exercism-php/blob/main/resistors.php)
    
