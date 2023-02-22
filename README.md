@@ -12,10 +12,12 @@ Instructions :
 The classical introductory exercise. Just say "Hello, World!"
 "Hello, World!" is the traditional first program for beginning programming in a new language or environment.
 The objectives are simple: 
-  - Write a function that returns the string "Hello, World!"
+    
+   1. Write a function that returns the string "Hello, World!"
 
 - ## [Exo 2](https://github.com/Leagian/exercism-php/blob/main/reverseString.php)
 
 Instructions :
-Reverse a string 
+
+  1.Reverse a string 
   - For example: input: "cool" output: "looc"
