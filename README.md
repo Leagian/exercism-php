@@ -32,3 +32,9 @@ The goal of this exercise is to create a way:
    2. to list the different band colors
     
 Mnemonics map the colors to the numbers, that, when stored as an array, happen to map to their index in the array: Better Be Right Or Your Great Big Values Go Wrong.
+
+- ## [Exo 4](https://github.com/Leagian/exercism-php/blob/main/hamming.php)
+   
+Instructions :
+
+   1. Calculate the Hamming Distance between two DNA strands.
