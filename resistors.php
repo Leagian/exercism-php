@@ -77,3 +77,24 @@ function colorCodeTwo($color) {
 }
 echo colorCodeTwo('black');
 ?> 
+
+# solution 4
+
+<?php 
+const COLORSFOUR = [
+        'black',
+        'brown',
+        'red',
+        'orange',
+        'yellow',
+        'green',
+        'blue',
+        'violet',
+        'grey',
+        'white',
+    ];
+
+function colorCodeFour($color) {
+    return array_search($color, COLORS);
+}
+echo colorCodeFour('blue');
