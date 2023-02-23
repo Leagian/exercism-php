@@ -43,8 +43,8 @@ echo colorCode('yellow');
         'white' => 9,
     ];
 
-    foreach($colors as $number => $color) {
-        echo "$number => $color \n";
+    foreach($colors as $key => $color) {
+        echo "$key => $color \n";
     }
 ?>
 
