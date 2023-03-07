@@ -39,9 +39,9 @@ Instructions :
 
 1.  Calculate the Hamming Distance between two DNA strands.
 
-- ## [Exo 5](https://github.com/Leagian/exercism-php/blob/main/hamming.php)
+- ## [Exo 5](https://github.com/Leagian/exercism-php/blob/main/gigasecond.php)
 
   1.  Given a moment, determine the moment that would be after a gigasecond has passed A gigasecond is 10^9 (1,000,000,000) seconds.
 
-- ## [Exo 6](https://github.com/Leagian/exercism-php/blob/main/hamming.php)
+- ## [Exo 6](https://github.com/Leagian/exercism-php/blob/main/tournament.php)
   1.  Tally the results of a small football competition.
